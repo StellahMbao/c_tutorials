@@ -7,3 +7,5 @@ All my progress is being stored in a repository on github. That's quite helpful 
 Ok, let's go!
 ## methodology
 1. Initialize an empty repository on github and make first commit# c_tutorials
+2. Install extensions to make sure c++ works efficiently
+3. 
